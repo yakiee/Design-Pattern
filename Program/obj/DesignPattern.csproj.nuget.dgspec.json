@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Data\\selfData\\DesignPattern\\DesignPattern.csproj": {}
+    "D:\\Data\\selfData\\DesignPattern\\Program\\DesignPattern.csproj": {}
   },
   "projects": {
-    "D:\\Data\\selfData\\DesignPattern\\DesignPattern.csproj": {
+    "D:\\Data\\selfData\\DesignPattern\\Program\\DesignPattern.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Data\\selfData\\DesignPattern\\DesignPattern.csproj",
+        "projectUniqueName": "D:\\Data\\selfData\\DesignPattern\\Program\\DesignPattern.csproj",
         "projectName": "DesignPattern",
-        "projectPath": "D:\\Data\\selfData\\DesignPattern\\DesignPattern.csproj",
+        "projectPath": "D:\\Data\\selfData\\DesignPattern\\Program\\DesignPattern.csproj",
         "packagesPath": "C:\\Users\\yakiee\\.nuget\\packages\\",
-        "outputPath": "D:\\Data\\selfData\\DesignPattern\\obj\\",
+        "outputPath": "D:\\Data\\selfData\\DesignPattern\\Program\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
